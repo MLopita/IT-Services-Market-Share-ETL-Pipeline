@@ -1,0 +1,36 @@
+2025-01-26 22:55:35,657 - INFO - Connected to MySQL successfully
+2025-01-26 22:55:36,118 - INFO - Processing file: D:\ETL_Project\IT_Services_Marketshare_2019.csv
+2025-01-26 22:56:28,590 - INFO - 100000 rows processed and inserted successfully.
+2025-01-26 22:57:07,509 - INFO - 100000 rows processed and inserted successfully.
+2025-01-26 22:57:43,143 - INFO - 100000 rows processed and inserted successfully.
+2025-01-26 22:58:11,468 - INFO - 100000 rows processed and inserted successfully.
+2025-01-26 22:58:15,512 - INFO - 10653 rows processed and inserted successfully.
+2025-01-26 22:58:15,819 - INFO - Finished processing file: D:\ETL_Project\IT_Services_Marketshare_2019.csv
+2025-01-26 22:58:15,820 - INFO - Processing file: D:\ETL_Project\IT_Services_Marketshare_2020.csv
+2025-01-26 22:58:52,883 - INFO - 100000 rows processed and inserted successfully.
+2025-01-26 22:59:19,088 - INFO - 100000 rows processed and inserted successfully.
+2025-01-26 22:59:58,188 - INFO - 100000 rows processed and inserted successfully.
+2025-01-26 23:00:17,518 - INFO - 31724 rows processed and inserted successfully.
+2025-01-26 23:00:17,529 - INFO - Finished processing file: D:\ETL_Project\IT_Services_Marketshare_2020.csv
+2025-01-26 23:00:17,529 - INFO - Processing file: D:\ETL_Project\IT_Services_Marketshare_2021.csv
+2025-01-26 23:00:55,257 - INFO - 100000 rows processed and inserted successfully.
+2025-01-26 23:01:30,320 - INFO - 100000 rows processed and inserted successfully.
+2025-01-26 23:02:11,591 - INFO - 100000 rows processed and inserted successfully.
+2025-01-26 23:03:48,219 - INFO - 100000 rows processed and inserted successfully.
+2025-01-26 23:04:25,442 - INFO - 45502 rows processed and inserted successfully.
+2025-01-26 23:04:25,469 - INFO - Finished processing file: D:\ETL_Project\IT_Services_Marketshare_2021.csv
+2025-01-26 23:04:25,470 - INFO - Processing file: D:\ETL_Project\IT_Services_Marketshare_2022.csv
+2025-01-26 23:05:40,088 - INFO - 100000 rows processed and inserted successfully.
+2025-01-26 23:06:12,245 - INFO - 100000 rows processed and inserted successfully.
+2025-01-26 23:06:44,316 - INFO - 100000 rows processed and inserted successfully.
+2025-01-26 23:07:12,439 - INFO - 100000 rows processed and inserted successfully.
+2025-01-26 23:07:23,180 - INFO - 48362 rows processed and inserted successfully.
+2025-01-26 23:07:23,196 - INFO - Finished processing file: D:\ETL_Project\IT_Services_Marketshare_2022.csv
+2025-01-26 23:07:23,197 - INFO - Processing file: D:\ETL_Project\IT_Services_Marketshare_2023.csv
+2025-01-26 23:07:43,154 - INFO - 100000 rows processed and inserted successfully.
+2025-01-26 23:08:01,158 - INFO - 100000 rows processed and inserted successfully.
+2025-01-26 23:08:19,697 - INFO - 100000 rows processed and inserted successfully.
+2025-01-26 23:08:37,232 - INFO - 100000 rows processed and inserted successfully.
+2025-01-26 23:08:45,698 - INFO - 44553 rows processed and inserted successfully.
+2025-01-26 23:08:45,710 - INFO - Finished processing file: D:\ETL_Project\IT_Services_Marketshare_2023.csv
+2025-01-26 23:08:45,754 - INFO - Database connection closed.
