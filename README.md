@@ -1,53 +1,84 @@
-# IT Services Market Share ETL Pipeline
+ETL Pipeline: IT Services Market Share Analysis (2020–2023)
 
-## 📌 Project Overview
-This project is an **ETL (Extract, Transform, Load) pipeline** designed to process IT services market share data from **2018 to 2023**. The data is extracted from CSV files, transformed using **Python**, loaded into a **MySQL database**, and visualized using **Power BI**.
-
-## 🛠 Technologies Used
-- **Programming Language**: Python 🐍
-- **Database**: MySQL 🗄️
-- **Visualization**: Power BI 📊
-- **Libraries Used**: pandas, mysql-connector-python, logging
-
-## ⚙️ ETL Process Workflow
-1. **Extraction**: Importing CSV data into Python.
-2. **Transformation**:
-   - Cleaning missing values & standardizing data.
-   - Converting currency fields into a standard format.
-   - Mapping source fields to the database structure.
-3. **Loading**: Storing transformed data in a MySQL database.
-4. **Visualization**: Power BI dashboard for insights.
-
-## 📁 Repository Structure
-```
-IT-Services-Market-Share-ETL-Pipeline/
-│── Flowchart/                    # ETL pipeline diagram
-│── Data_Mapping/                 # Data mapping document
-│── SQL_Scripts/                  # SQL queries for data loading
-│── Python_Scripts/               # Python ETL scripts
-│── Logs/                         # Log files for debugging
-│── Documentation/                # Project report & presentation
-│── PowerBI_Dashboard/            # Power BI visuals & reports
-│── README.md                     # Project overview
-│── requirements.txt              # Python dependencies (optional)
-
-## 🔍 Key Insights
-- 📈 **Year-over-Year Growth Analysis**: Revenue trends from 2018 to 2023.
-- 🌎 **Regional Revenue Distribution**: Market share breakdown by geography.
-- 🏢 **Vendor Performance**: Top-performing companies in IT services.
-- 📊 **Market Segmentation**: Revenue share by verticals and segments.
-
-## 📌 Future Enhancements
-- Automate data extraction from APIs instead of CSV files.
-- Implement real-time data updates using cloud services.
-- Improve Power BI dashboard with AI-powered insights.
-
-## 🏆 About the Author
-**👩‍💻 Lopita Mishra**  
-Aspiring **Business Intelligence Analyst** with expertise in **ETL, Python, SQL, and Power BI**.
-
-🌐 **GitHub**: [MLopita](https://github.com/MLopita)  
-💼 **LinkedIn**: [Lopita Mishra](https://www.linkedin.com/in/lopita-mishra/)  
 
 ---
-### ⭐ If you found this project useful, don't forget to **star** this repository! 🚀
+
+Overview:
+This project presents a full-fledged ETL pipeline to process and analyze IT services market share data from 2019 to 2023. It leverages Python for data extraction and transformation, MySQL for structured storage, and Power BI for interactive visual analytics. The goal is to monitor vendor performance, track revenue trends, and explore insights across regions, services, and verticals.
+
+
+---
+
+Key Features:
+
+Automated data extraction, cleaning, and transformation using Python
+
+Structured data storage using MySQL
+
+Dynamic Power BI dashboard for multi-dimensional analysis
+
+Year-over-year (YoY) revenue and growth tracking
+
+Visual segmentation by vendor, country, service, and vertical
+
+Flowchart-driven architecture for process clarity
+
+Reusable and scalable pipeline design
+
+
+
+---
+
+Benefits:
+
+Centralizes market data for easy access and analysis
+
+Reduces manual efforts through automation
+
+Enables data-driven decision-making via interactive visuals
+
+Improves visibility into industry trends and vendor positioning
+
+Supports granular analysis with drill-through capabilities
+
+
+
+---
+
+Project Workflow:
+
+1. Extraction
+
+Source: CSV files containing market data
+
+Tool: Python (pandas)
+
+
+
+2. Transformation
+
+Handle missing values, standardize formats, and transform currency fields
+
+Data Mapping documented in Excel
+
+
+
+3. Loading
+
+Load processed data into MySQL (market_data table)
+
+
+
+4. Visualization
+
+Import data into Power BI
+
+Create KPIs, bar/line charts, treemaps, slicers, and more
+
+
+
+5. Documentation
+
+Flowchart and data model
+
+README and walkthrough
